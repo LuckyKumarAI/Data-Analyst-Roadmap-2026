@@ -83,3 +83,26 @@ It covers the important skills, tools, concepts, projects, and learning resource
 - AI-assisted data analysis
 - Using AI for SQL and Python learning
 - AI tools for productivity
+
+## 💼 Projects
+
+Practical projects are an important part of becoming a Data Analyst.
+
+### Beginner Projects
+- 📊 Excel Sales Dashboard
+- 🗄️ SQL Sales Analysis
+- 🐍 Python Data Analysis
+- 🐼 Pandas Data Cleaning Project
+
+### Intermediate Projects
+- 📈 Power BI Sales Dashboard
+- 🛒 E-Commerce Data Analysis
+- 👥 Customer Analysis
+- 💰 Financial Data Analysis
+
+### Advanced Projects
+- 📊 End-to-End Data Analytics Project
+- 🤖 AI-Assisted Data Analysis
+- 📈 Business Intelligence Dashboard
+
+> Projects will be added to this roadmap as I learn and build them.
